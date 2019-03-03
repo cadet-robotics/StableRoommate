@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Stable Roommate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Stable_Roommate_jar</output-path>
+    <root id="archive" name="Stable Roommate.jar">
+      <element id="module-output" name="Stable Roommate" />
+    </root>
+  </artifact>
+</component>
